@@ -5,6 +5,7 @@ export default () => {
     <div>
       <h1>Hi there! My name is Binh. I am from VietNam</h1>
       <hr/>
+      <hr/>
       <Marketing/>
     </div>
   );
